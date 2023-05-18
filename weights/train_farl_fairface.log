@@ -1,0 +1,1934 @@
+Number of training parameters: 149795283
+Epoch 1/200
+Iter 0/678 - LR 0.00500000: Loss: 1.9667
+Iter 50/678 - LR 0.00500000: Loss: 4.3387
+Iter 100/678 - LR 0.00499999: Loss: 3.9549
+Iter 150/678 - LR 0.00499998: Loss: 2.7832
+Iter 200/678 - LR 0.00499997: Loss: 2.1708
+Iter 250/678 - LR 0.00499996: Loss: 2.0818
+Iter 300/678 - LR 0.00499994: Loss: 2.0469
+Iter 350/678 - LR 0.00499992: Loss: 2.0739
+Iter 400/678 - LR 0.00499989: Loss: 2.3089
+Iter 450/678 - LR 0.00499986: Loss: 2.0964
+Iter 500/678 - LR 0.00499983: Loss: 1.7473
+Iter 550/678 - LR 0.00499980: Loss: 1.9010
+Iter 600/678 - LR 0.00499976: Loss: 1.9920
+Iter 650/678 - LR 0.00499972: Loss: 1.8701
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 76.21 %
+Saving the best checkpoint
+
+Epoch 2/200
+Iter 0/678 - LR 0.00499969: Loss: 1.9189
+Iter 50/678 - LR 0.00499964: Loss: 1.8311
+Iter 100/678 - LR 0.00499959: Loss: 1.6718
+Iter 150/678 - LR 0.00499954: Loss: 1.8440
+Iter 200/678 - LR 0.00499948: Loss: 1.7958
+Iter 250/678 - LR 0.00499942: Loss: 1.8260
+Iter 300/678 - LR 0.00499936: Loss: 1.7406
+Iter 350/678 - LR 0.00499929: Loss: 1.8075
+Iter 400/678 - LR 0.00499922: Loss: 1.7830
+Iter 450/678 - LR 0.00499914: Loss: 2.0417
+Iter 500/678 - LR 0.00499907: Loss: 2.2092
+Iter 550/678 - LR 0.00499899: Loss: 1.7327
+Iter 600/678 - LR 0.00499890: Loss: 2.0007
+Iter 650/678 - LR 0.00499882: Loss: 1.7391
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 76.69 %
+Saving the best checkpoint
+
+Epoch 3/200
+Iter 0/678 - LR 0.00499876: Loss: 1.7463
+Iter 50/678 - LR 0.00499867: Loss: 1.7126
+Iter 100/678 - LR 0.00499858: Loss: 1.6345
+Iter 150/678 - LR 0.00499848: Loss: 1.8115
+Iter 200/678 - LR 0.00499837: Loss: 1.7964
+Iter 250/678 - LR 0.00499827: Loss: 1.7146
+Iter 300/678 - LR 0.00499816: Loss: 1.8533
+Iter 350/678 - LR 0.00499805: Loss: 1.7529
+Iter 400/678 - LR 0.00499793: Loss: 1.8149
+Iter 450/678 - LR 0.00499781: Loss: 1.8281
+Iter 500/678 - LR 0.00499769: Loss: 1.9246
+Iter 550/678 - LR 0.00499756: Loss: 1.9408
+Iter 600/678 - LR 0.00499743: Loss: 1.7304
+Iter 650/678 - LR 0.00499730: Loss: 1.8209
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 76.82 %
+Saving the best checkpoint
+
+Epoch 4/200
+Iter 0/678 - LR 0.00499722: Loss: 1.5363
+Iter 50/678 - LR 0.00499708: Loss: 1.6784
+Iter 100/678 - LR 0.00499694: Loss: 1.8956
+Iter 150/678 - LR 0.00499680: Loss: 1.5096
+Iter 200/678 - LR 0.00499665: Loss: 1.8809
+Iter 250/678 - LR 0.00499650: Loss: 1.7097
+Iter 300/678 - LR 0.00499634: Loss: 1.7209
+Iter 350/678 - LR 0.00499618: Loss: 1.6016
+Iter 400/678 - LR 0.00499602: Loss: 1.6165
+Iter 450/678 - LR 0.00499586: Loss: 1.5629
+Iter 500/678 - LR 0.00499569: Loss: 1.6846
+Iter 550/678 - LR 0.00499552: Loss: 1.7666
+Iter 600/678 - LR 0.00499534: Loss: 1.6856
+Iter 650/678 - LR 0.00499516: Loss: 1.5479
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.31 %
+Saving the best checkpoint
+
+Epoch 5/200
+Iter 0/678 - LR 0.00499506: Loss: 1.7953
+Iter 50/678 - LR 0.00499488: Loss: 1.6939
+Iter 100/678 - LR 0.00499469: Loss: 1.4861
+Iter 150/678 - LR 0.00499450: Loss: 1.7656
+Iter 200/678 - LR 0.00499431: Loss: 1.6204
+Iter 250/678 - LR 0.00499411: Loss: 1.6622
+Iter 300/678 - LR 0.00499391: Loss: 1.7072
+Iter 350/678 - LR 0.00499371: Loss: 1.6923
+Iter 400/678 - LR 0.00499350: Loss: 1.5923
+Iter 450/678 - LR 0.00499329: Loss: 1.5986
+Iter 500/678 - LR 0.00499308: Loss: 1.6767
+Iter 550/678 - LR 0.00499286: Loss: 1.7253
+Iter 600/678 - LR 0.00499264: Loss: 1.7022
+Iter 650/678 - LR 0.00499242: Loss: 1.5625
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.32 %
+Saving the best checkpoint
+
+Epoch 6/200
+Iter 0/678 - LR 0.00499229: Loss: 1.4641
+Iter 50/678 - LR 0.00499206: Loss: 1.5730
+Iter 100/678 - LR 0.00499183: Loss: 1.5365
+Iter 150/678 - LR 0.00499159: Loss: 1.6561
+Iter 200/678 - LR 0.00499135: Loss: 1.8284
+Iter 250/678 - LR 0.00499111: Loss: 1.8593
+Iter 300/678 - LR 0.00499086: Loss: 1.7430
+Iter 350/678 - LR 0.00499062: Loss: 1.6214
+Iter 400/678 - LR 0.00499036: Loss: 1.6183
+Iter 450/678 - LR 0.00499011: Loss: 1.5140
+Iter 500/678 - LR 0.00498985: Loss: 1.7173
+Iter 550/678 - LR 0.00498959: Loss: 1.8009
+Iter 600/678 - LR 0.00498932: Loss: 1.6315
+Iter 650/678 - LR 0.00498905: Loss: 1.7641
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.63 %
+Saving the best checkpoint
+
+Epoch 7/200
+Iter 0/678 - LR 0.00498890: Loss: 1.4617
+Iter 50/678 - LR 0.00498863: Loss: 1.6370
+Iter 100/678 - LR 0.00498835: Loss: 1.6266
+Iter 150/678 - LR 0.00498807: Loss: 1.5737
+Iter 200/678 - LR 0.00498778: Loss: 1.5084
+Iter 250/678 - LR 0.00498749: Loss: 1.4883
+Iter 300/678 - LR 0.00498720: Loss: 1.9157
+Iter 350/678 - LR 0.00498691: Loss: 1.4674
+Iter 400/678 - LR 0.00498661: Loss: 1.7397
+Iter 450/678 - LR 0.00498631: Loss: 1.7288
+Iter 500/678 - LR 0.00498601: Loss: 1.4416
+Iter 550/678 - LR 0.00498570: Loss: 1.5730
+Iter 600/678 - LR 0.00498539: Loss: 1.6392
+Iter 650/678 - LR 0.00498507: Loss: 1.7668
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.69 %
+Saving the best checkpoint
+
+Epoch 8/200
+Iter 0/678 - LR 0.00498490: Loss: 1.6860
+Iter 50/678 - LR 0.00498458: Loss: 1.5887
+Iter 100/678 - LR 0.00498425: Loss: 1.4157
+Iter 150/678 - LR 0.00498393: Loss: 1.4506
+Iter 200/678 - LR 0.00498360: Loss: 1.6409
+Iter 250/678 - LR 0.00498327: Loss: 1.5342
+Iter 300/678 - LR 0.00498293: Loss: 1.7207
+Iter 350/678 - LR 0.00498259: Loss: 1.4582
+Iter 400/678 - LR 0.00498225: Loss: 1.5594
+Iter 450/678 - LR 0.00498190: Loss: 1.5670
+Iter 500/678 - LR 0.00498155: Loss: 1.5250
+Iter 550/678 - LR 0.00498120: Loss: 1.5684
+Iter 600/678 - LR 0.00498084: Loss: 1.4988
+Iter 650/678 - LR 0.00498048: Loss: 1.5729
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.43 %
+No improvement - best accuracy: 77.69 %
+
+Epoch 9/200
+Iter 0/678 - LR 0.00498028: Loss: 1.3383
+Iter 50/678 - LR 0.00497991: Loss: 1.2395
+Iter 100/678 - LR 0.00497955: Loss: 1.4205
+Iter 150/678 - LR 0.00497918: Loss: 1.5984
+Iter 200/678 - LR 0.00497880: Loss: 1.5719
+Iter 250/678 - LR 0.00497842: Loss: 1.6375
+Iter 300/678 - LR 0.00497804: Loss: 1.4526
+Iter 350/678 - LR 0.00497766: Loss: 1.6348
+Iter 400/678 - LR 0.00497727: Loss: 1.7672
+Iter 450/678 - LR 0.00497688: Loss: 1.6339
+Iter 500/678 - LR 0.00497648: Loss: 1.5283
+Iter 550/678 - LR 0.00497608: Loss: 1.6522
+Iter 600/678 - LR 0.00497568: Loss: 1.4294
+Iter 650/678 - LR 0.00497528: Loss: 1.6577
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.51 %
+No improvement - best accuracy: 77.69 %
+
+Epoch 10/200
+Iter 0/678 - LR 0.00497505: Loss: 1.5377
+Iter 50/678 - LR 0.00497464: Loss: 1.5249
+Iter 100/678 - LR 0.00497423: Loss: 1.5832
+Iter 150/678 - LR 0.00497381: Loss: 1.5415
+Iter 200/678 - LR 0.00497339: Loss: 1.5577
+Iter 250/678 - LR 0.00497297: Loss: 1.6776
+Iter 300/678 - LR 0.00497254: Loss: 1.4488
+Iter 350/678 - LR 0.00497211: Loss: 1.5652
+Iter 400/678 - LR 0.00497168: Loss: 1.5279
+Iter 450/678 - LR 0.00497124: Loss: 1.8326
+Iter 500/678 - LR 0.00497080: Loss: 1.5417
+Iter 550/678 - LR 0.00497036: Loss: 1.6009
+Iter 600/678 - LR 0.00496991: Loss: 1.5219
+Iter 650/678 - LR 0.00496947: Loss: 1.5627
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.89 %
+Saving the best checkpoint
+
+Epoch 11/200
+Iter 0/678 - LR 0.00496921: Loss: 1.6307
+Iter 50/678 - LR 0.00496876: Loss: 1.7103
+Iter 100/678 - LR 0.00496830: Loss: 1.4242
+Iter 150/678 - LR 0.00496784: Loss: 1.5348
+Iter 200/678 - LR 0.00496737: Loss: 1.3355
+Iter 250/678 - LR 0.00496690: Loss: 1.6237
+Iter 300/678 - LR 0.00496643: Loss: 1.5346
+Iter 350/678 - LR 0.00496596: Loss: 1.2627
+Iter 400/678 - LR 0.00496548: Loss: 1.4210
+Iter 450/678 - LR 0.00496500: Loss: 1.4873
+Iter 500/678 - LR 0.00496452: Loss: 1.5838
+Iter 550/678 - LR 0.00496403: Loss: 1.5540
+Iter 600/678 - LR 0.00496354: Loss: 1.5096
+Iter 650/678 - LR 0.00496304: Loss: 1.5384
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.39 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 12/200
+Iter 0/678 - LR 0.00496276: Loss: 1.4936
+Iter 50/678 - LR 0.00496226: Loss: 1.4476
+Iter 100/678 - LR 0.00496176: Loss: 1.6076
+Iter 150/678 - LR 0.00496125: Loss: 1.4608
+Iter 200/678 - LR 0.00496075: Loss: 1.5858
+Iter 250/678 - LR 0.00496023: Loss: 1.4787
+Iter 300/678 - LR 0.00495972: Loss: 1.3372
+Iter 350/678 - LR 0.00495920: Loss: 1.4268
+Iter 400/678 - LR 0.00495867: Loss: 1.5310
+Iter 450/678 - LR 0.00495815: Loss: 1.4750
+Iter 500/678 - LR 0.00495762: Loss: 1.2487
+Iter 550/678 - LR 0.00495709: Loss: 1.5593
+Iter 600/678 - LR 0.00495655: Loss: 1.3985
+Iter 650/678 - LR 0.00495601: Loss: 1.5090
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.39 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 13/200
+Iter 0/678 - LR 0.00495571: Loss: 1.3719
+Iter 50/678 - LR 0.00495516: Loss: 1.3760
+Iter 100/678 - LR 0.00495462: Loss: 1.2501
+Iter 150/678 - LR 0.00495406: Loss: 1.3589
+Iter 200/678 - LR 0.00495351: Loss: 1.4770
+Iter 250/678 - LR 0.00495295: Loss: 1.4464
+Iter 300/678 - LR 0.00495239: Loss: 1.5115
+Iter 350/678 - LR 0.00495183: Loss: 1.5130
+Iter 400/678 - LR 0.00495126: Loss: 1.3827
+Iter 450/678 - LR 0.00495069: Loss: 1.1620
+Iter 500/678 - LR 0.00495012: Loss: 1.4713
+Iter 550/678 - LR 0.00494954: Loss: 1.6091
+Iter 600/678 - LR 0.00494896: Loss: 1.5570
+Iter 650/678 - LR 0.00494837: Loss: 1.5761
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.67 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 14/200
+Iter 0/678 - LR 0.00494805: Loss: 1.3240
+Iter 50/678 - LR 0.00494746: Loss: 1.2648
+Iter 100/678 - LR 0.00494686: Loss: 1.4140
+Iter 150/678 - LR 0.00494627: Loss: 1.4606
+Iter 200/678 - LR 0.00494567: Loss: 1.5057
+Iter 250/678 - LR 0.00494507: Loss: 1.5387
+Iter 300/678 - LR 0.00494446: Loss: 1.4804
+Iter 350/678 - LR 0.00494385: Loss: 1.4441
+Iter 400/678 - LR 0.00494324: Loss: 1.2714
+Iter 450/678 - LR 0.00494263: Loss: 1.4717
+Iter 500/678 - LR 0.00494201: Loss: 1.4669
+Iter 550/678 - LR 0.00494139: Loss: 1.3298
+Iter 600/678 - LR 0.00494076: Loss: 1.2632
+Iter 650/678 - LR 0.00494013: Loss: 1.3931
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.67 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 15/200
+Iter 0/678 - LR 0.00493978: Loss: 1.2864
+Iter 50/678 - LR 0.00493915: Loss: 1.4975
+Iter 100/678 - LR 0.00493851: Loss: 1.5430
+Iter 150/678 - LR 0.00493787: Loss: 1.3120
+Iter 200/678 - LR 0.00493723: Loss: 1.2484
+Iter 250/678 - LR 0.00493658: Loss: 1.3855
+Iter 300/678 - LR 0.00493593: Loss: 1.3659
+Iter 350/678 - LR 0.00493528: Loss: 1.2953
+Iter 400/678 - LR 0.00493462: Loss: 1.2781
+Iter 450/678 - LR 0.00493396: Loss: 1.5355
+Iter 500/678 - LR 0.00493330: Loss: 1.3520
+Iter 550/678 - LR 0.00493263: Loss: 1.3284
+Iter 600/678 - LR 0.00493196: Loss: 1.3602
+Iter 650/678 - LR 0.00493129: Loss: 1.4941
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.41 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 16/200
+Iter 0/678 - LR 0.00493091: Loss: 1.3333
+Iter 50/678 - LR 0.00493023: Loss: 1.4911
+Iter 100/678 - LR 0.00492955: Loss: 1.2875
+Iter 150/678 - LR 0.00492887: Loss: 1.4107
+Iter 200/678 - LR 0.00492818: Loss: 1.2782
+Iter 250/678 - LR 0.00492749: Loss: 1.3631
+Iter 300/678 - LR 0.00492680: Loss: 1.2381
+Iter 350/678 - LR 0.00492610: Loss: 1.4901
+Iter 400/678 - LR 0.00492540: Loss: 1.5171
+Iter 450/678 - LR 0.00492469: Loss: 1.2127
+Iter 500/678 - LR 0.00492399: Loss: 1.2850
+Iter 550/678 - LR 0.00492328: Loss: 1.5141
+Iter 600/678 - LR 0.00492256: Loss: 1.2553
+Iter 650/678 - LR 0.00492185: Loss: 1.2303
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.39 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 17/200
+Iter 0/678 - LR 0.00492144: Loss: 1.2643
+Iter 50/678 - LR 0.00492072: Loss: 1.2451
+Iter 100/678 - LR 0.00492000: Loss: 1.1782
+Iter 150/678 - LR 0.00491927: Loss: 1.3088
+Iter 200/678 - LR 0.00491854: Loss: 1.3096
+Iter 250/678 - LR 0.00491780: Loss: 1.4069
+Iter 300/678 - LR 0.00491706: Loss: 1.3212
+Iter 350/678 - LR 0.00491632: Loss: 1.2739
+Iter 400/678 - LR 0.00491558: Loss: 1.3400
+Iter 450/678 - LR 0.00491483: Loss: 1.2942
+Iter 500/678 - LR 0.00491408: Loss: 1.1507
+Iter 550/678 - LR 0.00491332: Loss: 1.6959
+Iter 600/678 - LR 0.00491257: Loss: 1.4895
+Iter 650/678 - LR 0.00491181: Loss: 1.4183
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.38 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 18/200
+Iter 0/678 - LR 0.00491138: Loss: 1.1740
+Iter 50/678 - LR 0.00491061: Loss: 1.3695
+Iter 100/678 - LR 0.00490984: Loss: 1.3569
+Iter 150/678 - LR 0.00490907: Loss: 1.3745
+Iter 200/678 - LR 0.00490830: Loss: 1.1048
+Iter 250/678 - LR 0.00490752: Loss: 1.1656
+Iter 300/678 - LR 0.00490673: Loss: 1.2171
+Iter 350/678 - LR 0.00490595: Loss: 1.3058
+Iter 400/678 - LR 0.00490516: Loss: 1.2224
+Iter 450/678 - LR 0.00490437: Loss: 1.5944
+Iter 500/678 - LR 0.00490357: Loss: 1.3129
+Iter 550/678 - LR 0.00490278: Loss: 1.2937
+Iter 600/678 - LR 0.00490197: Loss: 1.2159
+Iter 650/678 - LR 0.00490117: Loss: 1.3779
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.39 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 19/200
+Iter 0/678 - LR 0.00490072: Loss: 0.9452
+Iter 50/678 - LR 0.00489991: Loss: 1.1745
+Iter 100/678 - LR 0.00489910: Loss: 1.2568
+Iter 150/678 - LR 0.00489828: Loss: 1.3885
+Iter 200/678 - LR 0.00489746: Loss: 1.0313
+Iter 250/678 - LR 0.00489664: Loss: 1.2421
+Iter 300/678 - LR 0.00489581: Loss: 1.3401
+Iter 350/678 - LR 0.00489498: Loss: 1.3100
+Iter 400/678 - LR 0.00489415: Loss: 1.2119
+Iter 450/678 - LR 0.00489332: Loss: 1.2650
+Iter 500/678 - LR 0.00489248: Loss: 1.2388
+Iter 550/678 - LR 0.00489164: Loss: 1.2156
+Iter 600/678 - LR 0.00489079: Loss: 1.5034
+Iter 650/678 - LR 0.00488994: Loss: 1.3177
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.28 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 20/200
+Iter 0/678 - LR 0.00488947: Loss: 1.2405
+Iter 50/678 - LR 0.00488861: Loss: 1.1776
+Iter 100/678 - LR 0.00488776: Loss: 1.0155
+Iter 150/678 - LR 0.00488690: Loss: 1.3477
+Iter 200/678 - LR 0.00488603: Loss: 1.2957
+Iter 250/678 - LR 0.00488517: Loss: 1.1231
+Iter 300/678 - LR 0.00488430: Loss: 1.2180
+Iter 350/678 - LR 0.00488343: Loss: 1.4427
+Iter 400/678 - LR 0.00488255: Loss: 1.0318
+Iter 450/678 - LR 0.00488167: Loss: 1.4006
+Iter 500/678 - LR 0.00488079: Loss: 1.3566
+Iter 550/678 - LR 0.00487990: Loss: 1.1497
+Iter 600/678 - LR 0.00487902: Loss: 1.2592
+Iter 650/678 - LR 0.00487812: Loss: 1.3240
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 77.30 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 21/200
+Iter 0/678 - LR 0.00487762: Loss: 1.2278
+Iter 50/678 - LR 0.00487673: Loss: 1.0313
+Iter 100/678 - LR 0.00487583: Loss: 1.1408
+Iter 150/678 - LR 0.00487492: Loss: 1.1948
+Iter 200/678 - LR 0.00487402: Loss: 1.2504
+Iter 250/678 - LR 0.00487311: Loss: 1.2301
+Iter 300/678 - LR 0.00487220: Loss: 1.2481
+Iter 350/678 - LR 0.00487128: Loss: 1.2801
+Iter 400/678 - LR 0.00487036: Loss: 1.0924
+Iter 450/678 - LR 0.00486944: Loss: 1.0305
+Iter 500/678 - LR 0.00486851: Loss: 1.1588
+Iter 550/678 - LR 0.00486759: Loss: 1.3604
+Iter 600/678 - LR 0.00486665: Loss: 0.9931
+Iter 650/678 - LR 0.00486572: Loss: 1.2066
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 76.82 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 22/200
+Iter 0/678 - LR 0.00486519: Loss: 0.8973
+Iter 50/678 - LR 0.00486426: Loss: 1.0956
+Iter 100/678 - LR 0.00486331: Loss: 1.0774
+Iter 150/678 - LR 0.00486237: Loss: 1.0839
+Iter 200/678 - LR 0.00486142: Loss: 1.0866
+Iter 250/678 - LR 0.00486046: Loss: 1.0060
+Iter 300/678 - LR 0.00485951: Loss: 1.0030
+Iter 350/678 - LR 0.00485855: Loss: 1.1655
+Iter 400/678 - LR 0.00485759: Loss: 1.2440
+Iter 450/678 - LR 0.00485662: Loss: 1.3233
+Iter 500/678 - LR 0.00485566: Loss: 1.1077
+Iter 550/678 - LR 0.00485468: Loss: 1.0918
+Iter 600/678 - LR 0.00485371: Loss: 1.2238
+Iter 650/678 - LR 0.00485273: Loss: 1.2240
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 76.74 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 23/200
+Iter 0/678 - LR 0.00485218: Loss: 1.0488
+Iter 50/678 - LR 0.00485120: Loss: 1.1410
+Iter 100/678 - LR 0.00485021: Loss: 1.1827
+Iter 150/678 - LR 0.00484923: Loss: 1.1350
+Iter 200/678 - LR 0.00484823: Loss: 1.1859
+Iter 250/678 - LR 0.00484724: Loss: 1.1454
+Iter 300/678 - LR 0.00484624: Loss: 0.9542
+Iter 350/678 - LR 0.00484524: Loss: 1.1941
+Iter 400/678 - LR 0.00484423: Loss: 1.1939
+Iter 450/678 - LR 0.00484323: Loss: 1.3012
+Iter 500/678 - LR 0.00484221: Loss: 0.9863
+Iter 550/678 - LR 0.00484120: Loss: 1.1994
+Iter 600/678 - LR 0.00484018: Loss: 1.0479
+Iter 650/678 - LR 0.00483916: Loss: 1.1469
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 76.61 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 24/200
+Iter 0/678 - LR 0.00483859: Loss: 1.0431
+Iter 50/678 - LR 0.00483756: Loss: 1.0671
+Iter 100/678 - LR 0.00483654: Loss: 1.1660
+Iter 150/678 - LR 0.00483550: Loss: 1.2772
+Iter 200/678 - LR 0.00483447: Loss: 1.0548
+Iter 250/678 - LR 0.00483343: Loss: 0.8489
+Iter 300/678 - LR 0.00483239: Loss: 1.2191
+Iter 350/678 - LR 0.00483135: Loss: 0.9244
+Iter 400/678 - LR 0.00483030: Loss: 0.9056
+Iter 450/678 - LR 0.00482925: Loss: 0.9695
+Iter 500/678 - LR 0.00482820: Loss: 0.9965
+Iter 550/678 - LR 0.00482714: Loss: 1.1183
+Iter 600/678 - LR 0.00482608: Loss: 1.0495
+Iter 650/678 - LR 0.00482502: Loss: 1.4013
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 76.38 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 25/200
+Iter 0/678 - LR 0.00482442: Loss: 0.9756
+Iter 50/678 - LR 0.00482335: Loss: 0.9478
+Iter 100/678 - LR 0.00482228: Loss: 0.8461
+Iter 150/678 - LR 0.00482121: Loss: 0.8526
+Iter 200/678 - LR 0.00482013: Loss: 0.8563
+Iter 250/678 - LR 0.00481905: Loss: 0.9936
+Iter 300/678 - LR 0.00481797: Loss: 1.1533
+Iter 350/678 - LR 0.00481688: Loss: 0.9634
+Iter 400/678 - LR 0.00481579: Loss: 0.9068
+Iter 450/678 - LR 0.00481470: Loss: 0.9997
+Iter 500/678 - LR 0.00481360: Loss: 1.0844
+Iter 550/678 - LR 0.00481250: Loss: 0.9525
+Iter 600/678 - LR 0.00481140: Loss: 0.9131
+Iter 650/678 - LR 0.00481030: Loss: 0.9754
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 76.50 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 26/200
+Iter 0/678 - LR 0.00480968: Loss: 0.8020
+Iter 50/678 - LR 0.00480857: Loss: 0.8235
+Iter 100/678 - LR 0.00480745: Loss: 0.8654
+Iter 150/678 - LR 0.00480634: Loss: 1.1211
+Iter 200/678 - LR 0.00480522: Loss: 0.8816
+Iter 250/678 - LR 0.00480410: Loss: 0.7907
+Iter 300/678 - LR 0.00480297: Loss: 1.0043
+Iter 350/678 - LR 0.00480184: Loss: 0.8995
+Iter 400/678 - LR 0.00480071: Loss: 0.8442
+Iter 450/678 - LR 0.00479958: Loss: 0.8807
+Iter 500/678 - LR 0.00479844: Loss: 1.0791
+Iter 550/678 - LR 0.00479730: Loss: 0.9208
+Iter 600/678 - LR 0.00479615: Loss: 1.1561
+Iter 650/678 - LR 0.00479501: Loss: 0.7656
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 76.09 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 27/200
+Iter 0/678 - LR 0.00479436: Loss: 0.9049
+Iter 50/678 - LR 0.00479321: Loss: 0.9058
+Iter 100/678 - LR 0.00479206: Loss: 0.9364
+Iter 150/678 - LR 0.00479090: Loss: 1.0126
+Iter 200/678 - LR 0.00478974: Loss: 0.8200
+Iter 250/678 - LR 0.00478857: Loss: 0.7989
+Iter 300/678 - LR 0.00478741: Loss: 0.9061
+Iter 350/678 - LR 0.00478624: Loss: 0.9381
+Iter 400/678 - LR 0.00478506: Loss: 0.7561
+Iter 450/678 - LR 0.00478389: Loss: 0.9931
+Iter 500/678 - LR 0.00478271: Loss: 1.2013
+Iter 550/678 - LR 0.00478153: Loss: 0.7793
+Iter 600/678 - LR 0.00478034: Loss: 0.8888
+Iter 650/678 - LR 0.00477915: Loss: 0.9469
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.87 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 28/200
+Iter 0/678 - LR 0.00477848: Loss: 0.7442
+Iter 50/678 - LR 0.00477729: Loss: 0.7363
+Iter 100/678 - LR 0.00477610: Loss: 0.7653
+Iter 150/678 - LR 0.00477490: Loss: 0.7853
+Iter 200/678 - LR 0.00477369: Loss: 0.6289
+Iter 250/678 - LR 0.00477249: Loss: 0.8489
+Iter 300/678 - LR 0.00477128: Loss: 0.7788
+Iter 350/678 - LR 0.00477007: Loss: 0.7411
+Iter 400/678 - LR 0.00476885: Loss: 0.8223
+Iter 450/678 - LR 0.00476763: Loss: 0.9336
+Iter 500/678 - LR 0.00476641: Loss: 0.8520
+Iter 550/678 - LR 0.00476519: Loss: 0.8072
+Iter 600/678 - LR 0.00476396: Loss: 1.1171
+Iter 650/678 - LR 0.00476273: Loss: 0.9449
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 76.12 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 29/200
+Iter 0/678 - LR 0.00476204: Loss: 0.7637
+Iter 50/678 - LR 0.00476081: Loss: 0.7858
+Iter 100/678 - LR 0.00475957: Loss: 0.5792
+Iter 150/678 - LR 0.00475833: Loss: 0.7741
+Iter 200/678 - LR 0.00475709: Loss: 0.7520
+Iter 250/678 - LR 0.00475584: Loss: 0.7204
+Iter 300/678 - LR 0.00475459: Loss: 0.8135
+Iter 350/678 - LR 0.00475334: Loss: 0.7456
+Iter 400/678 - LR 0.00475208: Loss: 0.7505
+Iter 450/678 - LR 0.00475082: Loss: 0.8658
+Iter 500/678 - LR 0.00474956: Loss: 0.6877
+Iter 550/678 - LR 0.00474830: Loss: 0.9295
+Iter 600/678 - LR 0.00474703: Loss: 0.8257
+Iter 650/678 - LR 0.00474576: Loss: 0.7697
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.66 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 30/200
+Iter 0/678 - LR 0.00474504: Loss: 0.8371
+Iter 50/678 - LR 0.00474377: Loss: 0.8143
+Iter 100/678 - LR 0.00474249: Loss: 0.7011
+Iter 150/678 - LR 0.00474121: Loss: 0.7734
+Iter 200/678 - LR 0.00473992: Loss: 0.8077
+Iter 250/678 - LR 0.00473864: Loss: 0.8124
+Iter 300/678 - LR 0.00473735: Loss: 0.7165
+Iter 350/678 - LR 0.00473605: Loss: 0.8486
+Iter 400/678 - LR 0.00473475: Loss: 0.7776
+Iter 450/678 - LR 0.00473346: Loss: 0.6472
+Iter 500/678 - LR 0.00473215: Loss: 0.7923
+Iter 550/678 - LR 0.00473085: Loss: 0.7203
+Iter 600/678 - LR 0.00472954: Loss: 0.8514
+Iter 650/678 - LR 0.00472823: Loss: 0.7049
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.57 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 31/200
+Iter 0/678 - LR 0.00472749: Loss: 0.6672
+Iter 50/678 - LR 0.00472617: Loss: 0.6096
+Iter 100/678 - LR 0.00472485: Loss: 0.6404
+Iter 150/678 - LR 0.00472353: Loss: 0.5086
+Iter 200/678 - LR 0.00472221: Loss: 0.7103
+Iter 250/678 - LR 0.00472088: Loss: 0.6646
+Iter 300/678 - LR 0.00471955: Loss: 0.5840
+Iter 350/678 - LR 0.00471821: Loss: 0.6883
+Iter 400/678 - LR 0.00471688: Loss: 0.7940
+Iter 450/678 - LR 0.00471554: Loss: 0.7100
+Iter 500/678 - LR 0.00471419: Loss: 0.5560
+Iter 550/678 - LR 0.00471285: Loss: 0.7577
+Iter 600/678 - LR 0.00471150: Loss: 0.5706
+Iter 650/678 - LR 0.00471015: Loss: 0.6763
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.48 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 32/200
+Iter 0/678 - LR 0.00470939: Loss: 0.6992
+Iter 50/678 - LR 0.00470803: Loss: 0.6330
+Iter 100/678 - LR 0.00470667: Loss: 0.6617
+Iter 150/678 - LR 0.00470531: Loss: 0.6404
+Iter 200/678 - LR 0.00470394: Loss: 0.6729
+Iter 250/678 - LR 0.00470257: Loss: 0.7946
+Iter 300/678 - LR 0.00470120: Loss: 0.6627
+Iter 350/678 - LR 0.00469983: Loss: 0.8057
+Iter 400/678 - LR 0.00469845: Loss: 0.5910
+Iter 450/678 - LR 0.00469707: Loss: 0.5571
+Iter 500/678 - LR 0.00469569: Loss: 0.7945
+Iter 550/678 - LR 0.00469430: Loss: 0.6746
+Iter 600/678 - LR 0.00469291: Loss: 0.6992
+Iter 650/678 - LR 0.00469152: Loss: 0.7419
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.34 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 33/200
+Iter 0/678 - LR 0.00469074: Loss: 0.7218
+Iter 50/678 - LR 0.00468934: Loss: 0.5013
+Iter 100/678 - LR 0.00468794: Loss: 0.5455
+Iter 150/678 - LR 0.00468654: Loss: 0.6034
+Iter 200/678 - LR 0.00468514: Loss: 0.4414
+Iter 250/678 - LR 0.00468373: Loss: 0.5645
+Iter 300/678 - LR 0.00468232: Loss: 0.6067
+Iter 350/678 - LR 0.00468090: Loss: 0.5773
+Iter 400/678 - LR 0.00467948: Loss: 0.6018
+Iter 450/678 - LR 0.00467806: Loss: 0.5231
+Iter 500/678 - LR 0.00467664: Loss: 0.6241
+Iter 550/678 - LR 0.00467521: Loss: 0.7611
+Iter 600/678 - LR 0.00467379: Loss: 0.5802
+Iter 650/678 - LR 0.00467235: Loss: 0.6378
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.19 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 34/200
+Iter 0/678 - LR 0.00467155: Loss: 0.6083
+Iter 50/678 - LR 0.00467011: Loss: 0.5224
+Iter 100/678 - LR 0.00466868: Loss: 0.5480
+Iter 150/678 - LR 0.00466723: Loss: 0.5274
+Iter 200/678 - LR 0.00466579: Loss: 0.6180
+Iter 250/678 - LR 0.00466434: Loss: 0.4821
+Iter 300/678 - LR 0.00466289: Loss: 0.6327
+Iter 350/678 - LR 0.00466144: Loss: 0.6473
+Iter 400/678 - LR 0.00465998: Loss: 0.6023
+Iter 450/678 - LR 0.00465852: Loss: 0.6926
+Iter 500/678 - LR 0.00465706: Loss: 0.6099
+Iter 550/678 - LR 0.00465559: Loss: 0.6161
+Iter 600/678 - LR 0.00465412: Loss: 0.5538
+Iter 650/678 - LR 0.00465265: Loss: 0.5351
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 74.93 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 35/200
+Iter 0/678 - LR 0.00465183: Loss: 0.4438
+Iter 50/678 - LR 0.00465035: Loss: 0.5159
+Iter 100/678 - LR 0.00464887: Loss: 0.4638
+Iter 150/678 - LR 0.00464739: Loss: 0.4741
+Iter 200/678 - LR 0.00464591: Loss: 0.4209
+Iter 250/678 - LR 0.00464442: Loss: 0.5364
+Iter 300/678 - LR 0.00464293: Loss: 0.4446
+Iter 350/678 - LR 0.00464144: Loss: 0.7710
+Iter 400/678 - LR 0.00463994: Loss: 0.4658
+Iter 450/678 - LR 0.00463844: Loss: 0.6422
+Iter 500/678 - LR 0.00463694: Loss: 0.4362
+Iter 550/678 - LR 0.00463544: Loss: 0.6669
+Iter 600/678 - LR 0.00463393: Loss: 0.5131
+Iter 650/678 - LR 0.00463242: Loss: 0.5989
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.35 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 36/200
+Iter 0/678 - LR 0.00463157: Loss: 0.4333
+Iter 50/678 - LR 0.00463006: Loss: 0.3998
+Iter 100/678 - LR 0.00462854: Loss: 0.3920
+Iter 150/678 - LR 0.00462702: Loss: 0.4883
+Iter 200/678 - LR 0.00462550: Loss: 0.4246
+Iter 250/678 - LR 0.00462397: Loss: 0.4454
+Iter 300/678 - LR 0.00462244: Loss: 0.4667
+Iter 350/678 - LR 0.00462091: Loss: 0.4096
+Iter 400/678 - LR 0.00461937: Loss: 0.6387
+Iter 450/678 - LR 0.00461784: Loss: 0.5592
+Iter 500/678 - LR 0.00461630: Loss: 0.4905
+Iter 550/678 - LR 0.00461475: Loss: 0.5739
+Iter 600/678 - LR 0.00461321: Loss: 0.4822
+Iter 650/678 - LR 0.00461166: Loss: 0.5823
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.10 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 37/200
+Iter 0/678 - LR 0.00461079: Loss: 0.4616
+Iter 50/678 - LR 0.00460924: Loss: 0.4144
+Iter 100/678 - LR 0.00460768: Loss: 0.3469
+Iter 150/678 - LR 0.00460612: Loss: 0.5096
+Iter 200/678 - LR 0.00460456: Loss: 0.5968
+Iter 250/678 - LR 0.00460300: Loss: 0.4081
+Iter 300/678 - LR 0.00460143: Loss: 0.4220
+Iter 350/678 - LR 0.00459986: Loss: 0.6776
+Iter 400/678 - LR 0.00459828: Loss: 0.4341
+Iter 450/678 - LR 0.00459671: Loss: 0.4229
+Iter 500/678 - LR 0.00459513: Loss: 0.4199
+Iter 550/678 - LR 0.00459355: Loss: 0.4199
+Iter 600/678 - LR 0.00459196: Loss: 0.4499
+Iter 650/678 - LR 0.00459038: Loss: 0.5119
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.12 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 38/200
+Iter 0/678 - LR 0.00458949: Loss: 0.4930
+Iter 50/678 - LR 0.00458790: Loss: 0.4235
+Iter 100/678 - LR 0.00458630: Loss: 0.3782
+Iter 150/678 - LR 0.00458470: Loss: 0.5018
+Iter 200/678 - LR 0.00458310: Loss: 0.4267
+Iter 250/678 - LR 0.00458150: Loss: 0.4180
+Iter 300/678 - LR 0.00457990: Loss: 0.4548
+Iter 350/678 - LR 0.00457829: Loss: 0.3698
+Iter 400/678 - LR 0.00457668: Loss: 0.3994
+Iter 450/678 - LR 0.00457506: Loss: 0.3284
+Iter 500/678 - LR 0.00457345: Loss: 0.4740
+Iter 550/678 - LR 0.00457183: Loss: 0.3792
+Iter 600/678 - LR 0.00457021: Loss: 0.4239
+Iter 650/678 - LR 0.00456858: Loss: 0.4367
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 74.99 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 39/200
+Iter 0/678 - LR 0.00456767: Loss: 0.4402
+Iter 50/678 - LR 0.00456604: Loss: 0.3813
+Iter 100/678 - LR 0.00456441: Loss: 0.4915
+Iter 150/678 - LR 0.00456277: Loss: 0.2798
+Iter 200/678 - LR 0.00456114: Loss: 0.2894
+Iter 250/678 - LR 0.00455950: Loss: 0.4996
+Iter 300/678 - LR 0.00455785: Loss: 0.3865
+Iter 350/678 - LR 0.00455621: Loss: 0.4300
+Iter 400/678 - LR 0.00455456: Loss: 0.4951
+Iter 450/678 - LR 0.00455291: Loss: 0.4020
+Iter 500/678 - LR 0.00455125: Loss: 0.2834
+Iter 550/678 - LR 0.00454960: Loss: 0.4940
+Iter 600/678 - LR 0.00454794: Loss: 0.4081
+Iter 650/678 - LR 0.00454627: Loss: 0.4422
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.18 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 40/200
+Iter 0/678 - LR 0.00454534: Loss: 0.3736
+Iter 50/678 - LR 0.00454368: Loss: 0.2424
+Iter 100/678 - LR 0.00454201: Loss: 0.4162
+Iter 150/678 - LR 0.00454033: Loss: 0.2964
+Iter 200/678 - LR 0.00453866: Loss: 0.3483
+Iter 250/678 - LR 0.00453698: Loss: 0.2318
+Iter 300/678 - LR 0.00453530: Loss: 0.4077
+Iter 350/678 - LR 0.00453362: Loss: 0.4966
+Iter 400/678 - LR 0.00453193: Loss: 0.3924
+Iter 450/678 - LR 0.00453024: Loss: 0.5505
+Iter 500/678 - LR 0.00452855: Loss: 0.4931
+Iter 550/678 - LR 0.00452686: Loss: 0.3928
+Iter 600/678 - LR 0.00452516: Loss: 0.4800
+Iter 650/678 - LR 0.00452346: Loss: 0.4422
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.17 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 41/200
+Iter 0/678 - LR 0.00452251: Loss: 0.3393
+Iter 50/678 - LR 0.00452081: Loss: 0.5113
+Iter 100/678 - LR 0.00451910: Loss: 0.3226
+Iter 150/678 - LR 0.00451739: Loss: 0.4496
+Iter 200/678 - LR 0.00451568: Loss: 0.2484
+Iter 250/678 - LR 0.00451396: Loss: 0.4042
+Iter 300/678 - LR 0.00451225: Loss: 0.3859
+Iter 350/678 - LR 0.00451053: Loss: 0.3112
+Iter 400/678 - LR 0.00450880: Loss: 0.3653
+Iter 450/678 - LR 0.00450708: Loss: 0.3204
+Iter 500/678 - LR 0.00450535: Loss: 0.5062
+Iter 550/678 - LR 0.00450362: Loss: 0.3206
+Iter 600/678 - LR 0.00450189: Loss: 0.2932
+Iter 650/678 - LR 0.00450015: Loss: 0.3415
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.34 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 42/200
+Iter 0/678 - LR 0.00449918: Loss: 0.3562
+Iter 50/678 - LR 0.00449744: Loss: 0.2685
+Iter 100/678 - LR 0.00449569: Loss: 0.3019
+Iter 150/678 - LR 0.00449395: Loss: 0.2018
+Iter 200/678 - LR 0.00449220: Loss: 0.2925
+Iter 250/678 - LR 0.00449045: Loss: 0.2243
+Iter 300/678 - LR 0.00448870: Loss: 0.2686
+Iter 350/678 - LR 0.00448694: Loss: 0.5023
+Iter 400/678 - LR 0.00448518: Loss: 0.2796
+Iter 450/678 - LR 0.00448342: Loss: 0.3663
+Iter 500/678 - LR 0.00448166: Loss: 0.3414
+Iter 550/678 - LR 0.00447989: Loss: 0.4047
+Iter 600/678 - LR 0.00447812: Loss: 0.3060
+Iter 650/678 - LR 0.00447635: Loss: 0.2423
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 74.91 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 43/200
+Iter 0/678 - LR 0.00447535: Loss: 0.3544
+Iter 50/678 - LR 0.00447358: Loss: 0.1835
+Iter 100/678 - LR 0.00447180: Loss: 0.3157
+Iter 150/678 - LR 0.00447002: Loss: 0.3404
+Iter 200/678 - LR 0.00446823: Loss: 0.2503
+Iter 250/678 - LR 0.00446644: Loss: 0.2547
+Iter 300/678 - LR 0.00446466: Loss: 0.2162
+Iter 350/678 - LR 0.00446286: Loss: 0.2827
+Iter 400/678 - LR 0.00446107: Loss: 0.3588
+Iter 450/678 - LR 0.00445927: Loss: 0.3722
+Iter 500/678 - LR 0.00445747: Loss: 0.2822
+Iter 550/678 - LR 0.00445567: Loss: 0.2595
+Iter 600/678 - LR 0.00445386: Loss: 0.2464
+Iter 650/678 - LR 0.00445205: Loss: 0.3241
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.27 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 44/200
+Iter 0/678 - LR 0.00445104: Loss: 0.2131
+Iter 50/678 - LR 0.00444923: Loss: 0.2593
+Iter 100/678 - LR 0.00444741: Loss: 0.4517
+Iter 150/678 - LR 0.00444560: Loss: 0.3521
+Iter 200/678 - LR 0.00444378: Loss: 0.2248
+Iter 250/678 - LR 0.00444195: Loss: 0.2912
+Iter 300/678 - LR 0.00444013: Loss: 0.3080
+Iter 350/678 - LR 0.00443830: Loss: 0.2223
+Iter 400/678 - LR 0.00443647: Loss: 0.1592
+Iter 450/678 - LR 0.00443464: Loss: 0.2526
+Iter 500/678 - LR 0.00443280: Loss: 0.4489
+Iter 550/678 - LR 0.00443096: Loss: 0.2792
+Iter 600/678 - LR 0.00442912: Loss: 0.3680
+Iter 650/678 - LR 0.00442728: Loss: 0.4181
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.09 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 45/200
+Iter 0/678 - LR 0.00442625: Loss: 0.2324
+Iter 50/678 - LR 0.00442440: Loss: 0.3043
+Iter 100/678 - LR 0.00442255: Loss: 0.2010
+Iter 150/678 - LR 0.00442070: Loss: 0.3240
+Iter 200/678 - LR 0.00441884: Loss: 0.2296
+Iter 250/678 - LR 0.00441698: Loss: 0.2736
+Iter 300/678 - LR 0.00441512: Loss: 0.3191
+Iter 350/678 - LR 0.00441326: Loss: 0.4508
+Iter 400/678 - LR 0.00441140: Loss: 0.3548
+Iter 450/678 - LR 0.00440953: Loss: 0.2701
+Iter 500/678 - LR 0.00440766: Loss: 0.2140
+Iter 550/678 - LR 0.00440579: Loss: 0.3616
+Iter 600/678 - LR 0.00440391: Loss: 0.2416
+Iter 650/678 - LR 0.00440203: Loss: 0.3028
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.16 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 46/200
+Iter 0/678 - LR 0.00440098: Loss: 0.3084
+Iter 50/678 - LR 0.00439910: Loss: 0.2569
+Iter 100/678 - LR 0.00439721: Loss: 0.1984
+Iter 150/678 - LR 0.00439532: Loss: 0.1979
+Iter 200/678 - LR 0.00439343: Loss: 0.2562
+Iter 250/678 - LR 0.00439154: Loss: 0.2364
+Iter 300/678 - LR 0.00438965: Loss: 0.3224
+Iter 350/678 - LR 0.00438775: Loss: 0.2681
+Iter 400/678 - LR 0.00438585: Loss: 0.2048
+Iter 450/678 - LR 0.00438395: Loss: 0.1874
+Iter 500/678 - LR 0.00438204: Loss: 0.2693
+Iter 550/678 - LR 0.00438014: Loss: 0.2647
+Iter 600/678 - LR 0.00437823: Loss: 0.3258
+Iter 650/678 - LR 0.00437631: Loss: 0.2732
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.21 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 47/200
+Iter 0/678 - LR 0.00437524: Loss: 0.2418
+Iter 50/678 - LR 0.00437332: Loss: 0.3089
+Iter 100/678 - LR 0.00437141: Loss: 0.2238
+Iter 150/678 - LR 0.00436948: Loss: 0.2383
+Iter 200/678 - LR 0.00436756: Loss: 0.2080
+Iter 250/678 - LR 0.00436563: Loss: 0.2712
+Iter 300/678 - LR 0.00436370: Loss: 0.1683
+Iter 350/678 - LR 0.00436177: Loss: 0.2267
+Iter 400/678 - LR 0.00435984: Loss: 0.3164
+Iter 450/678 - LR 0.00435790: Loss: 0.3220
+Iter 500/678 - LR 0.00435596: Loss: 0.2739
+Iter 550/678 - LR 0.00435402: Loss: 0.2722
+Iter 600/678 - LR 0.00435208: Loss: 0.2562
+Iter 650/678 - LR 0.00435013: Loss: 0.2627
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.15 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 48/200
+Iter 0/678 - LR 0.00434904: Loss: 0.2031
+Iter 50/678 - LR 0.00434709: Loss: 0.2544
+Iter 100/678 - LR 0.00434514: Loss: 0.2217
+Iter 150/678 - LR 0.00434318: Loss: 0.2444
+Iter 200/678 - LR 0.00434122: Loss: 0.2505
+Iter 250/678 - LR 0.00433926: Loss: 0.1776
+Iter 300/678 - LR 0.00433730: Loss: 0.2249
+Iter 350/678 - LR 0.00433534: Loss: 0.2628
+Iter 400/678 - LR 0.00433337: Loss: 0.2250
+Iter 450/678 - LR 0.00433140: Loss: 0.2799
+Iter 500/678 - LR 0.00432943: Loss: 0.1963
+Iter 550/678 - LR 0.00432745: Loss: 0.3655
+Iter 600/678 - LR 0.00432547: Loss: 0.2106
+Iter 650/678 - LR 0.00432349: Loss: 0.3183
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.15 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 49/200
+Iter 0/678 - LR 0.00432238: Loss: 0.2512
+Iter 50/678 - LR 0.00432040: Loss: 0.2296
+Iter 100/678 - LR 0.00431841: Loss: 0.2238
+Iter 150/678 - LR 0.00431642: Loss: 0.1265
+Iter 200/678 - LR 0.00431443: Loss: 0.1592
+Iter 250/678 - LR 0.00431244: Loss: 0.2214
+Iter 300/678 - LR 0.00431044: Loss: 0.1905
+Iter 350/678 - LR 0.00430845: Loss: 0.3090
+Iter 400/678 - LR 0.00430645: Loss: 0.2153
+Iter 450/678 - LR 0.00430444: Loss: 0.1506
+Iter 500/678 - LR 0.00430244: Loss: 0.3324
+Iter 550/678 - LR 0.00430043: Loss: 0.2751
+Iter 600/678 - LR 0.00429842: Loss: 0.2067
+Iter 650/678 - LR 0.00429641: Loss: 0.2534
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.34 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 50/200
+Iter 0/678 - LR 0.00429528: Loss: 0.2012
+Iter 50/678 - LR 0.00429326: Loss: 0.2731
+Iter 100/678 - LR 0.00429124: Loss: 0.2495
+Iter 150/678 - LR 0.00428922: Loss: 0.1697
+Iter 200/678 - LR 0.00428720: Loss: 0.2017
+Iter 250/678 - LR 0.00428517: Loss: 0.1355
+Iter 300/678 - LR 0.00428314: Loss: 0.2457
+Iter 350/678 - LR 0.00428111: Loss: 0.2703
+Iter 400/678 - LR 0.00427908: Loss: 0.0887
+Iter 450/678 - LR 0.00427704: Loss: 0.1661
+Iter 500/678 - LR 0.00427500: Loss: 0.1341
+Iter 550/678 - LR 0.00427296: Loss: 0.1785
+Iter 600/678 - LR 0.00427092: Loss: 0.1728
+Iter 650/678 - LR 0.00426887: Loss: 0.2468
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.20 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 51/200
+Iter 0/678 - LR 0.00426773: Loss: 0.2244
+Iter 50/678 - LR 0.00426568: Loss: 0.1774
+Iter 100/678 - LR 0.00426363: Loss: 0.1667
+Iter 150/678 - LR 0.00426157: Loss: 0.1934
+Iter 200/678 - LR 0.00425952: Loss: 0.1983
+Iter 250/678 - LR 0.00425746: Loss: 0.2468
+Iter 300/678 - LR 0.00425540: Loss: 0.2671
+Iter 350/678 - LR 0.00425333: Loss: 0.2834
+Iter 400/678 - LR 0.00425127: Loss: 0.2025
+Iter 450/678 - LR 0.00424920: Loss: 0.2965
+Iter 500/678 - LR 0.00424713: Loss: 0.1171
+Iter 550/678 - LR 0.00424506: Loss: 0.2454
+Iter 600/678 - LR 0.00424298: Loss: 0.2034
+Iter 650/678 - LR 0.00424091: Loss: 0.3975
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.41 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 52/200
+Iter 0/678 - LR 0.00423974: Loss: 0.1662
+Iter 50/678 - LR 0.00423766: Loss: 0.2111
+Iter 100/678 - LR 0.00423558: Loss: 0.1741
+Iter 150/678 - LR 0.00423349: Loss: 0.2165
+Iter 200/678 - LR 0.00423140: Loss: 0.1840
+Iter 250/678 - LR 0.00422931: Loss: 0.1904
+Iter 300/678 - LR 0.00422722: Loss: 0.2534
+Iter 350/678 - LR 0.00422513: Loss: 0.1711
+Iter 400/678 - LR 0.00422303: Loss: 0.1134
+Iter 450/678 - LR 0.00422093: Loss: 0.1590
+Iter 500/678 - LR 0.00421883: Loss: 0.2948
+Iter 550/678 - LR 0.00421672: Loss: 0.1574
+Iter 600/678 - LR 0.00421462: Loss: 0.1744
+Iter 650/678 - LR 0.00421251: Loss: 0.2023
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.31 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 53/200
+Iter 0/678 - LR 0.00421133: Loss: 0.1418
+Iter 50/678 - LR 0.00420921: Loss: 0.1765
+Iter 100/678 - LR 0.00420710: Loss: 0.1506
+Iter 150/678 - LR 0.00420498: Loss: 0.2533
+Iter 200/678 - LR 0.00420286: Loss: 0.0904
+Iter 250/678 - LR 0.00420074: Loss: 0.1447
+Iter 300/678 - LR 0.00419862: Loss: 0.2261
+Iter 350/678 - LR 0.00419649: Loss: 0.1419
+Iter 400/678 - LR 0.00419436: Loss: 0.1788
+Iter 450/678 - LR 0.00419223: Loss: 0.1021
+Iter 500/678 - LR 0.00419010: Loss: 0.1850
+Iter 550/678 - LR 0.00418797: Loss: 0.1033
+Iter 600/678 - LR 0.00418583: Loss: 0.2333
+Iter 650/678 - LR 0.00418369: Loss: 0.1520
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.28 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 54/200
+Iter 0/678 - LR 0.00418249: Loss: 0.1977
+Iter 50/678 - LR 0.00418035: Loss: 0.1019
+Iter 100/678 - LR 0.00417820: Loss: 0.1019
+Iter 150/678 - LR 0.00417605: Loss: 0.1108
+Iter 200/678 - LR 0.00417390: Loss: 0.2658
+Iter 250/678 - LR 0.00417175: Loss: 0.1940
+Iter 300/678 - LR 0.00416960: Loss: 0.1101
+Iter 350/678 - LR 0.00416744: Loss: 0.1661
+Iter 400/678 - LR 0.00416528: Loss: 0.1688
+Iter 450/678 - LR 0.00416312: Loss: 0.1796
+Iter 500/678 - LR 0.00416096: Loss: 0.1789
+Iter 550/678 - LR 0.00415879: Loss: 0.2098
+Iter 600/678 - LR 0.00415662: Loss: 0.1727
+Iter 650/678 - LR 0.00415445: Loss: 0.0889
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.27 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 55/200
+Iter 0/678 - LR 0.00415324: Loss: 0.1835
+Iter 50/678 - LR 0.00415106: Loss: 0.1647
+Iter 100/678 - LR 0.00414889: Loss: 0.1762
+Iter 150/678 - LR 0.00414671: Loss: 0.2467
+Iter 200/678 - LR 0.00414453: Loss: 0.1742
+Iter 250/678 - LR 0.00414235: Loss: 0.1777
+Iter 300/678 - LR 0.00414016: Loss: 0.1909
+Iter 350/678 - LR 0.00413798: Loss: 0.2444
+Iter 400/678 - LR 0.00413579: Loss: 0.3328
+Iter 450/678 - LR 0.00413360: Loss: 0.1849
+Iter 500/678 - LR 0.00413140: Loss: 0.1443
+Iter 550/678 - LR 0.00412921: Loss: 0.1481
+Iter 600/678 - LR 0.00412701: Loss: 0.0886
+Iter 650/678 - LR 0.00412481: Loss: 0.2037
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.24 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 56/200
+Iter 0/678 - LR 0.00412358: Loss: 0.1351
+Iter 50/678 - LR 0.00412137: Loss: 0.1822
+Iter 100/678 - LR 0.00411917: Loss: 0.0820
+Iter 150/678 - LR 0.00411696: Loss: 0.1837
+Iter 200/678 - LR 0.00411475: Loss: 0.1491
+Iter 250/678 - LR 0.00411254: Loss: 0.0636
+Iter 300/678 - LR 0.00411033: Loss: 0.2466
+Iter 350/678 - LR 0.00410811: Loss: 0.1152
+Iter 400/678 - LR 0.00410589: Loss: 0.2112
+Iter 450/678 - LR 0.00410367: Loss: 0.1270
+Iter 500/678 - LR 0.00410145: Loss: 0.1024
+Iter 550/678 - LR 0.00409922: Loss: 0.0692
+Iter 600/678 - LR 0.00409700: Loss: 0.2560
+Iter 650/678 - LR 0.00409477: Loss: 0.1981
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.29 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 57/200
+Iter 0/678 - LR 0.00409352: Loss: 0.2303
+Iter 50/678 - LR 0.00409128: Loss: 0.1529
+Iter 100/678 - LR 0.00408905: Loss: 0.1686
+Iter 150/678 - LR 0.00408681: Loss: 0.0900
+Iter 200/678 - LR 0.00408457: Loss: 0.2572
+Iter 250/678 - LR 0.00408233: Loss: 0.3797
+Iter 300/678 - LR 0.00408009: Loss: 0.0925
+Iter 350/678 - LR 0.00407784: Loss: 0.1554
+Iter 400/678 - LR 0.00407560: Loss: 0.2342
+Iter 450/678 - LR 0.00407335: Loss: 0.1056
+Iter 500/678 - LR 0.00407110: Loss: 0.1302
+Iter 550/678 - LR 0.00406884: Loss: 0.2587
+Iter 600/678 - LR 0.00406659: Loss: 0.0879
+Iter 650/678 - LR 0.00406433: Loss: 0.1643
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.15 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 58/200
+Iter 0/678 - LR 0.00406306: Loss: 0.1619
+Iter 50/678 - LR 0.00406080: Loss: 0.1777
+Iter 100/678 - LR 0.00405854: Loss: 0.1529
+Iter 150/678 - LR 0.00405627: Loss: 0.2104
+Iter 200/678 - LR 0.00405401: Loss: 0.1503
+Iter 250/678 - LR 0.00405174: Loss: 0.1301
+Iter 300/678 - LR 0.00404946: Loss: 0.1887
+Iter 350/678 - LR 0.00404719: Loss: 0.0777
+Iter 400/678 - LR 0.00404492: Loss: 0.1193
+Iter 450/678 - LR 0.00404264: Loss: 0.0748
+Iter 500/678 - LR 0.00404036: Loss: 0.1164
+Iter 550/678 - LR 0.00403808: Loss: 0.2950
+Iter 600/678 - LR 0.00403579: Loss: 0.1878
+Iter 650/678 - LR 0.00403350: Loss: 0.1023
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.17 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 59/200
+Iter 0/678 - LR 0.00403222: Loss: 0.0959
+Iter 50/678 - LR 0.00402993: Loss: 0.1014
+Iter 100/678 - LR 0.00402764: Loss: 0.1019
+Iter 150/678 - LR 0.00402535: Loss: 0.1188
+Iter 200/678 - LR 0.00402305: Loss: 0.1025
+Iter 250/678 - LR 0.00402076: Loss: 0.1481
+Iter 300/678 - LR 0.00401846: Loss: 0.1868
+Iter 350/678 - LR 0.00401616: Loss: 0.1817
+Iter 400/678 - LR 0.00401385: Loss: 0.1398
+Iter 450/678 - LR 0.00401155: Loss: 0.1714
+Iter 500/678 - LR 0.00400924: Loss: 0.1729
+Iter 550/678 - LR 0.00400693: Loss: 0.0854
+Iter 600/678 - LR 0.00400462: Loss: 0.1182
+Iter 650/678 - LR 0.00400230: Loss: 0.2288
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.08 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 60/200
+Iter 0/678 - LR 0.00400101: Loss: 0.2399
+Iter 50/678 - LR 0.00399869: Loss: 0.0883
+Iter 100/678 - LR 0.00399637: Loss: 0.1499
+Iter 150/678 - LR 0.00399405: Loss: 0.0751
+Iter 200/678 - LR 0.00399173: Loss: 0.1543
+Iter 250/678 - LR 0.00398940: Loss: 0.1215
+Iter 300/678 - LR 0.00398707: Loss: 0.1254
+Iter 350/678 - LR 0.00398475: Loss: 0.2416
+Iter 400/678 - LR 0.00398241: Loss: 0.1507
+Iter 450/678 - LR 0.00398008: Loss: 0.1089
+Iter 500/678 - LR 0.00397775: Loss: 0.1591
+Iter 550/678 - LR 0.00397541: Loss: 0.1021
+Iter 600/678 - LR 0.00397307: Loss: 0.0997
+Iter 650/678 - LR 0.00397073: Loss: 0.1113
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.34 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 61/200
+Iter 0/678 - LR 0.00396942: Loss: 0.1773
+Iter 50/678 - LR 0.00396707: Loss: 0.2398
+Iter 100/678 - LR 0.00396473: Loss: 0.0540
+Iter 150/678 - LR 0.00396238: Loss: 0.0758
+Iter 200/678 - LR 0.00396003: Loss: 0.1157
+Iter 250/678 - LR 0.00395768: Loss: 0.0435
+Iter 300/678 - LR 0.00395533: Loss: 0.0738
+Iter 350/678 - LR 0.00395297: Loss: 0.1351
+Iter 400/678 - LR 0.00395061: Loss: 0.0804
+Iter 450/678 - LR 0.00394825: Loss: 0.0913
+Iter 500/678 - LR 0.00394589: Loss: 0.1492
+Iter 550/678 - LR 0.00394353: Loss: 0.1352
+Iter 600/678 - LR 0.00394116: Loss: 0.1308
+Iter 650/678 - LR 0.00393879: Loss: 0.1613
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.10 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 62/200
+Iter 0/678 - LR 0.00393747: Loss: 0.0454
+Iter 50/678 - LR 0.00393510: Loss: 0.1724
+Iter 100/678 - LR 0.00393273: Loss: 0.1196
+Iter 150/678 - LR 0.00393035: Loss: 0.0836
+Iter 200/678 - LR 0.00392797: Loss: 0.1052
+Iter 250/678 - LR 0.00392560: Loss: 0.0961
+Iter 300/678 - LR 0.00392322: Loss: 0.0631
+Iter 350/678 - LR 0.00392083: Loss: 0.0913
+Iter 400/678 - LR 0.00391845: Loss: 0.1016
+Iter 450/678 - LR 0.00391607: Loss: 0.1595
+Iter 500/678 - LR 0.00391368: Loss: 0.0957
+Iter 550/678 - LR 0.00391129: Loss: 0.1162
+Iter 600/678 - LR 0.00390890: Loss: 0.1445
+Iter 650/678 - LR 0.00390650: Loss: 0.1670
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.34 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 63/200
+Iter 0/678 - LR 0.00390516: Loss: 0.0837
+Iter 50/678 - LR 0.00390277: Loss: 0.0747
+Iter 100/678 - LR 0.00390037: Loss: 0.1540
+Iter 150/678 - LR 0.00389797: Loss: 0.1315
+Iter 200/678 - LR 0.00389557: Loss: 0.1426
+Iter 250/678 - LR 0.00389316: Loss: 0.1714
+Iter 300/678 - LR 0.00389076: Loss: 0.0607
+Iter 350/678 - LR 0.00388835: Loss: 0.1546
+Iter 400/678 - LR 0.00388594: Loss: 0.2306
+Iter 450/678 - LR 0.00388353: Loss: 0.1216
+Iter 500/678 - LR 0.00388112: Loss: 0.0723
+Iter 550/678 - LR 0.00387870: Loss: 0.1250
+Iter 600/678 - LR 0.00387628: Loss: 0.0615
+Iter 650/678 - LR 0.00387387: Loss: 0.1129
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.15 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 64/200
+Iter 0/678 - LR 0.00387251: Loss: 0.1679
+Iter 50/678 - LR 0.00387009: Loss: 0.1501
+Iter 100/678 - LR 0.00386767: Loss: 0.0915
+Iter 150/678 - LR 0.00386524: Loss: 0.1467
+Iter 200/678 - LR 0.00386281: Loss: 0.1688
+Iter 250/678 - LR 0.00386039: Loss: 0.1355
+Iter 300/678 - LR 0.00385795: Loss: 0.0632
+Iter 350/678 - LR 0.00385552: Loss: 0.0772
+Iter 400/678 - LR 0.00385309: Loss: 0.0966
+Iter 450/678 - LR 0.00385065: Loss: 0.1367
+Iter 500/678 - LR 0.00384821: Loss: 0.2012
+Iter 550/678 - LR 0.00384577: Loss: 0.1484
+Iter 600/678 - LR 0.00384333: Loss: 0.0981
+Iter 650/678 - LR 0.00384089: Loss: 0.1393
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.42 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 65/200
+Iter 0/678 - LR 0.00383952: Loss: 0.1352
+Iter 50/678 - LR 0.00383707: Loss: 0.0906
+Iter 100/678 - LR 0.00383463: Loss: 0.1259
+Iter 150/678 - LR 0.00383218: Loss: 0.1532
+Iter 200/678 - LR 0.00382973: Loss: 0.1099
+Iter 250/678 - LR 0.00382727: Loss: 0.0459
+Iter 300/678 - LR 0.00382482: Loss: 0.0541
+Iter 350/678 - LR 0.00382236: Loss: 0.1327
+Iter 400/678 - LR 0.00381990: Loss: 0.0459
+Iter 450/678 - LR 0.00381744: Loss: 0.0723
+Iter 500/678 - LR 0.00381498: Loss: 0.1039
+Iter 550/678 - LR 0.00381252: Loss: 0.1764
+Iter 600/678 - LR 0.00381005: Loss: 0.0546
+Iter 650/678 - LR 0.00380758: Loss: 0.1390
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.19 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 66/200
+Iter 0/678 - LR 0.00380620: Loss: 0.0991
+Iter 50/678 - LR 0.00380373: Loss: 0.1426
+Iter 100/678 - LR 0.00380126: Loss: 0.2074
+Iter 150/678 - LR 0.00379878: Loss: 0.0938
+Iter 200/678 - LR 0.00379631: Loss: 0.0984
+Iter 250/678 - LR 0.00379383: Loss: 0.0952
+Iter 300/678 - LR 0.00379135: Loss: 0.0519
+Iter 350/678 - LR 0.00378887: Loss: 0.1040
+Iter 400/678 - LR 0.00378639: Loss: 0.1148
+Iter 450/678 - LR 0.00378391: Loss: 0.0485
+Iter 500/678 - LR 0.00378142: Loss: 0.1029
+Iter 550/678 - LR 0.00377893: Loss: 0.1078
+Iter 600/678 - LR 0.00377644: Loss: 0.0888
+Iter 650/678 - LR 0.00377395: Loss: 0.0695
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.30 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 67/200
+Iter 0/678 - LR 0.00377256: Loss: 0.0407
+Iter 50/678 - LR 0.00377006: Loss: 0.0696
+Iter 100/678 - LR 0.00376757: Loss: 0.1313
+Iter 150/678 - LR 0.00376507: Loss: 0.0809
+Iter 200/678 - LR 0.00376257: Loss: 0.1211
+Iter 250/678 - LR 0.00376007: Loss: 0.2024
+Iter 300/678 - LR 0.00375757: Loss: 0.0897
+Iter 350/678 - LR 0.00375507: Loss: 0.1824
+Iter 400/678 - LR 0.00375256: Loss: 0.0937
+Iter 450/678 - LR 0.00375005: Loss: 0.0411
+Iter 500/678 - LR 0.00374754: Loss: 0.1116
+Iter 550/678 - LR 0.00374503: Loss: 0.1301
+Iter 600/678 - LR 0.00374252: Loss: 0.0970
+Iter 650/678 - LR 0.00374001: Loss: 0.0701
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.32 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 68/200
+Iter 0/678 - LR 0.00373860: Loss: 0.1702
+Iter 50/678 - LR 0.00373608: Loss: 0.1139
+Iter 100/678 - LR 0.00373356: Loss: 0.0754
+Iter 150/678 - LR 0.00373104: Loss: 0.0755
+Iter 200/678 - LR 0.00372852: Loss: 0.0677
+Iter 250/678 - LR 0.00372600: Loss: 0.1577
+Iter 300/678 - LR 0.00372348: Loss: 0.0368
+Iter 350/678 - LR 0.00372095: Loss: 0.1541
+Iter 400/678 - LR 0.00371842: Loss: 0.0485
+Iter 450/678 - LR 0.00371589: Loss: 0.1164
+Iter 500/678 - LR 0.00371336: Loss: 0.0892
+Iter 550/678 - LR 0.00371083: Loss: 0.0290
+Iter 600/678 - LR 0.00370829: Loss: 0.0832
+Iter 650/678 - LR 0.00370576: Loss: 0.0899
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.18 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 69/200
+Iter 0/678 - LR 0.00370434: Loss: 0.0302
+Iter 50/678 - LR 0.00370180: Loss: 0.0544
+Iter 100/678 - LR 0.00369926: Loss: 0.1433
+Iter 150/678 - LR 0.00369672: Loss: 0.0939
+Iter 200/678 - LR 0.00369417: Loss: 0.1606
+Iter 250/678 - LR 0.00369163: Loss: 0.0726
+Iter 300/678 - LR 0.00368908: Loss: 0.1054
+Iter 350/678 - LR 0.00368653: Loss: 0.0640
+Iter 400/678 - LR 0.00368398: Loss: 0.1241
+Iter 450/678 - LR 0.00368143: Loss: 0.0739
+Iter 500/678 - LR 0.00367888: Loss: 0.0619
+Iter 550/678 - LR 0.00367632: Loss: 0.1022
+Iter 600/678 - LR 0.00367377: Loss: 0.0330
+Iter 650/678 - LR 0.00367121: Loss: 0.0719
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.10 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 70/200
+Iter 0/678 - LR 0.00366978: Loss: 0.0928
+Iter 50/678 - LR 0.00366722: Loss: 0.0840
+Iter 100/678 - LR 0.00366465: Loss: 0.1047
+Iter 150/678 - LR 0.00366209: Loss: 0.1455
+Iter 200/678 - LR 0.00365953: Loss: 0.0536
+Iter 250/678 - LR 0.00365696: Loss: 0.1036
+Iter 300/678 - LR 0.00365439: Loss: 0.0536
+Iter 350/678 - LR 0.00365182: Loss: 0.0579
+Iter 400/678 - LR 0.00364925: Loss: 0.0467
+Iter 450/678 - LR 0.00364668: Loss: 0.0796
+Iter 500/678 - LR 0.00364410: Loss: 0.0422
+Iter 550/678 - LR 0.00364153: Loss: 0.1057
+Iter 600/678 - LR 0.00363895: Loss: 0.0896
+Iter 650/678 - LR 0.00363637: Loss: 0.0614
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.28 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 71/200
+Iter 0/678 - LR 0.00363493: Loss: 0.1202
+Iter 50/678 - LR 0.00363235: Loss: 0.0730
+Iter 100/678 - LR 0.00362976: Loss: 0.0719
+Iter 150/678 - LR 0.00362718: Loss: 0.0916
+Iter 200/678 - LR 0.00362459: Loss: 0.0449
+Iter 250/678 - LR 0.00362201: Loss: 0.0605
+Iter 300/678 - LR 0.00361942: Loss: 0.1093
+Iter 350/678 - LR 0.00361683: Loss: 0.0500
+Iter 400/678 - LR 0.00361424: Loss: 0.1958
+Iter 450/678 - LR 0.00361164: Loss: 0.1633
+Iter 500/678 - LR 0.00360905: Loss: 0.0553
+Iter 550/678 - LR 0.00360645: Loss: 0.1104
+Iter 600/678 - LR 0.00360385: Loss: 0.0663
+Iter 650/678 - LR 0.00360125: Loss: 0.1024
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.19 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 72/200
+Iter 0/678 - LR 0.00359980: Loss: 0.0964
+Iter 50/678 - LR 0.00359720: Loss: 0.0986
+Iter 100/678 - LR 0.00359459: Loss: 0.1234
+Iter 150/678 - LR 0.00359199: Loss: 0.0510
+Iter 200/678 - LR 0.00358938: Loss: 0.0755
+Iter 250/678 - LR 0.00358678: Loss: 0.1000
+Iter 300/678 - LR 0.00358417: Loss: 0.1232
+Iter 350/678 - LR 0.00358156: Loss: 0.0459
+Iter 400/678 - LR 0.00357895: Loss: 0.0786
+Iter 450/678 - LR 0.00357633: Loss: 0.0660
+Iter 500/678 - LR 0.00357372: Loss: 0.0564
+Iter 550/678 - LR 0.00357110: Loss: 0.1058
+Iter 600/678 - LR 0.00356848: Loss: 0.1617
+Iter 650/678 - LR 0.00356587: Loss: 0.0720
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.11 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 73/200
+Iter 0/678 - LR 0.00356440: Loss: 0.0747
+Iter 50/678 - LR 0.00356178: Loss: 0.0944
+Iter 100/678 - LR 0.00355916: Loss: 0.0435
+Iter 150/678 - LR 0.00355653: Loss: 0.0701
+Iter 200/678 - LR 0.00355391: Loss: 0.1392
+Iter 250/678 - LR 0.00355128: Loss: 0.0646
+Iter 300/678 - LR 0.00354865: Loss: 0.1037
+Iter 350/678 - LR 0.00354602: Loss: 0.1101
+Iter 400/678 - LR 0.00354339: Loss: 0.0751
+Iter 450/678 - LR 0.00354076: Loss: 0.0403
+Iter 500/678 - LR 0.00353812: Loss: 0.1054
+Iter 550/678 - LR 0.00353549: Loss: 0.0603
+Iter 600/678 - LR 0.00353285: Loss: 0.0239
+Iter 650/678 - LR 0.00353021: Loss: 0.1574
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.25 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 74/200
+Iter 0/678 - LR 0.00352874: Loss: 0.1487
+Iter 50/678 - LR 0.00352610: Loss: 0.0626
+Iter 100/678 - LR 0.00352345: Loss: 0.0896
+Iter 150/678 - LR 0.00352081: Loss: 0.1053
+Iter 200/678 - LR 0.00351817: Loss: 0.0558
+Iter 250/678 - LR 0.00351552: Loss: 0.0715
+Iter 300/678 - LR 0.00351287: Loss: 0.0438
+Iter 350/678 - LR 0.00351023: Loss: 0.0792
+Iter 400/678 - LR 0.00350758: Loss: 0.1419
+Iter 450/678 - LR 0.00350493: Loss: 0.0482
+Iter 500/678 - LR 0.00350227: Loss: 0.0820
+Iter 550/678 - LR 0.00349962: Loss: 0.0638
+Iter 600/678 - LR 0.00349696: Loss: 0.0510
+Iter 650/678 - LR 0.00349431: Loss: 0.0905
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.50 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 75/200
+Iter 0/678 - LR 0.00349282: Loss: 0.0430
+Iter 50/678 - LR 0.00349016: Loss: 0.0652
+Iter 100/678 - LR 0.00348750: Loss: 0.0777
+Iter 150/678 - LR 0.00348484: Loss: 0.1099
+Iter 200/678 - LR 0.00348218: Loss: 0.0564
+Iter 250/678 - LR 0.00347951: Loss: 0.0252
+Iter 300/678 - LR 0.00347685: Loss: 0.0932
+Iter 350/678 - LR 0.00347418: Loss: 0.0753
+Iter 400/678 - LR 0.00347151: Loss: 0.1695
+Iter 450/678 - LR 0.00346885: Loss: 0.0890
+Iter 500/678 - LR 0.00346618: Loss: 0.0707
+Iter 550/678 - LR 0.00346350: Loss: 0.0686
+Iter 600/678 - LR 0.00346083: Loss: 0.0882
+Iter 650/678 - LR 0.00345816: Loss: 0.0840
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.37 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 76/200
+Iter 0/678 - LR 0.00345666: Loss: 0.1310
+Iter 50/678 - LR 0.00345398: Loss: 0.0949
+Iter 100/678 - LR 0.00345130: Loss: 0.1095
+Iter 150/678 - LR 0.00344863: Loss: 0.1114
+Iter 200/678 - LR 0.00344595: Loss: 0.0944
+Iter 250/678 - LR 0.00344326: Loss: 0.0387
+Iter 300/678 - LR 0.00344058: Loss: 0.0516
+Iter 350/678 - LR 0.00343790: Loss: 0.1216
+Iter 400/678 - LR 0.00343521: Loss: 0.1014
+Iter 450/678 - LR 0.00343253: Loss: 0.0439
+Iter 500/678 - LR 0.00342984: Loss: 0.1095
+Iter 550/678 - LR 0.00342715: Loss: 0.0858
+Iter 600/678 - LR 0.00342446: Loss: 0.0892
+Iter 650/678 - LR 0.00342177: Loss: 0.0637
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.33 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 77/200
+Iter 0/678 - LR 0.00342026: Loss: 0.0531
+Iter 50/678 - LR 0.00341757: Loss: 0.1278
+Iter 100/678 - LR 0.00341487: Loss: 0.0720
+Iter 150/678 - LR 0.00341218: Loss: 0.0570
+Iter 200/678 - LR 0.00340948: Loss: 0.0800
+Iter 250/678 - LR 0.00340678: Loss: 0.0464
+Iter 300/678 - LR 0.00340408: Loss: 0.0149
+Iter 350/678 - LR 0.00340138: Loss: 0.0453
+Iter 400/678 - LR 0.00339868: Loss: 0.0427
+Iter 450/678 - LR 0.00339598: Loss: 0.0732
+Iter 500/678 - LR 0.00339327: Loss: 0.0771
+Iter 550/678 - LR 0.00339057: Loss: 0.0950
+Iter 600/678 - LR 0.00338786: Loss: 0.0944
+Iter 650/678 - LR 0.00338515: Loss: 0.1380
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.17 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 78/200
+Iter 0/678 - LR 0.00338364: Loss: 0.0918
+Iter 50/678 - LR 0.00338093: Loss: 0.0647
+Iter 100/678 - LR 0.00337822: Loss: 0.0946
+Iter 150/678 - LR 0.00337550: Loss: 0.0617
+Iter 200/678 - LR 0.00337279: Loss: 0.0358
+Iter 250/678 - LR 0.00337008: Loss: 0.0710
+Iter 300/678 - LR 0.00336736: Loss: 0.0409
+Iter 350/678 - LR 0.00336464: Loss: 0.0899
+Iter 400/678 - LR 0.00336193: Loss: 0.0894
+Iter 450/678 - LR 0.00335921: Loss: 0.0754
+Iter 500/678 - LR 0.00335649: Loss: 0.0620
+Iter 550/678 - LR 0.00335377: Loss: 0.0436
+Iter 600/678 - LR 0.00335104: Loss: 0.0743
+Iter 650/678 - LR 0.00334832: Loss: 0.0587
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.40 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 79/200
+Iter 0/678 - LR 0.00334679: Loss: 0.0740
+Iter 50/678 - LR 0.00334407: Loss: 0.0760
+Iter 100/678 - LR 0.00334134: Loss: 0.0370
+Iter 150/678 - LR 0.00333861: Loss: 0.0657
+Iter 200/678 - LR 0.00333589: Loss: 0.0330
+Iter 250/678 - LR 0.00333316: Loss: 0.1010
+Iter 300/678 - LR 0.00333042: Loss: 0.0648
+Iter 350/678 - LR 0.00332769: Loss: 0.1437
+Iter 400/678 - LR 0.00332496: Loss: 0.0938
+Iter 450/678 - LR 0.00332222: Loss: 0.0831
+Iter 500/678 - LR 0.00331949: Loss: 0.1921
+Iter 550/678 - LR 0.00331675: Loss: 0.0693
+Iter 600/678 - LR 0.00331402: Loss: 0.0351
+Iter 650/678 - LR 0.00331128: Loss: 0.0873
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.23 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 80/200
+Iter 0/678 - LR 0.00330974: Loss: 0.0187
+Iter 50/678 - LR 0.00330700: Loss: 0.0610
+Iter 100/678 - LR 0.00330426: Loss: 0.0332
+Iter 150/678 - LR 0.00330152: Loss: 0.0347
+Iter 200/678 - LR 0.00329877: Loss: 0.1309
+Iter 250/678 - LR 0.00329603: Loss: 0.0614
+Iter 300/678 - LR 0.00329328: Loss: 0.0396
+Iter 350/678 - LR 0.00329054: Loss: 0.0241
+Iter 400/678 - LR 0.00328779: Loss: 0.0591
+Iter 450/678 - LR 0.00328504: Loss: 0.0665
+Iter 500/678 - LR 0.00328229: Loss: 0.0455
+Iter 550/678 - LR 0.00327954: Loss: 0.0294
+Iter 600/678 - LR 0.00327679: Loss: 0.0637
+Iter 650/678 - LR 0.00327403: Loss: 0.0344
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.45 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 81/200
+Iter 0/678 - LR 0.00327249: Loss: 0.0341
+Iter 50/678 - LR 0.00326974: Loss: 0.0342
+Iter 100/678 - LR 0.00326698: Loss: 0.0356
+Iter 150/678 - LR 0.00326422: Loss: 0.0358
+Iter 200/678 - LR 0.00326147: Loss: 0.0708
+Iter 250/678 - LR 0.00325871: Loss: 0.0769
+Iter 300/678 - LR 0.00325595: Loss: 0.0620
+Iter 350/678 - LR 0.00325319: Loss: 0.0311
+Iter 400/678 - LR 0.00325042: Loss: 0.0501
+Iter 450/678 - LR 0.00324766: Loss: 0.0093
+Iter 500/678 - LR 0.00324490: Loss: 0.0485
+Iter 550/678 - LR 0.00324213: Loss: 0.0480
+Iter 600/678 - LR 0.00323937: Loss: 0.0565
+Iter 650/678 - LR 0.00323660: Loss: 0.0878
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.19 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 82/200
+Iter 0/678 - LR 0.00323505: Loss: 0.0462
+Iter 50/678 - LR 0.00323228: Loss: 0.0250
+Iter 100/678 - LR 0.00322951: Loss: 0.0509
+Iter 150/678 - LR 0.00322674: Loss: 0.0383
+Iter 200/678 - LR 0.00322397: Loss: 0.0370
+Iter 250/678 - LR 0.00322120: Loss: 0.0651
+Iter 300/678 - LR 0.00321842: Loss: 0.0557
+Iter 350/678 - LR 0.00321565: Loss: 0.0399
+Iter 400/678 - LR 0.00321287: Loss: 0.0326
+Iter 450/678 - LR 0.00321010: Loss: 0.0393
+Iter 500/678 - LR 0.00320732: Loss: 0.0396
+Iter 550/678 - LR 0.00320454: Loss: 0.0664
+Iter 600/678 - LR 0.00320176: Loss: 0.0713
+Iter 650/678 - LR 0.00319898: Loss: 0.0307
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.42 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 83/200
+Iter 0/678 - LR 0.00319743: Loss: 0.0777
+Iter 50/678 - LR 0.00319464: Loss: 0.0258
+Iter 100/678 - LR 0.00319186: Loss: 0.0785
+Iter 150/678 - LR 0.00318908: Loss: 0.0726
+Iter 200/678 - LR 0.00318629: Loss: 0.0877
+Iter 250/678 - LR 0.00318351: Loss: 0.1218
+Iter 300/678 - LR 0.00318072: Loss: 0.0170
+Iter 350/678 - LR 0.00317794: Loss: 0.1429
+Iter 400/678 - LR 0.00317515: Loss: 0.0625
+Iter 450/678 - LR 0.00317236: Loss: 0.0285
+Iter 500/678 - LR 0.00316957: Loss: 0.0312
+Iter 550/678 - LR 0.00316678: Loss: 0.0824
+Iter 600/678 - LR 0.00316399: Loss: 0.1002
+Iter 650/678 - LR 0.00316119: Loss: 0.0796
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.56 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 84/200
+Iter 0/678 - LR 0.00315963: Loss: 0.0507
+Iter 50/678 - LR 0.00315684: Loss: 0.0596
+Iter 100/678 - LR 0.00315404: Loss: 0.0342
+Iter 150/678 - LR 0.00315125: Loss: 0.0357
+Iter 200/678 - LR 0.00314845: Loss: 0.1000
+Iter 250/678 - LR 0.00314565: Loss: 0.0938
+Iter 300/678 - LR 0.00314285: Loss: 0.0404
+Iter 350/678 - LR 0.00314006: Loss: 0.0650
+Iter 400/678 - LR 0.00313726: Loss: 0.0996
+Iter 450/678 - LR 0.00313445: Loss: 0.1190
+Iter 500/678 - LR 0.00313165: Loss: 0.0414
+Iter 550/678 - LR 0.00312885: Loss: 0.0387
+Iter 600/678 - LR 0.00312605: Loss: 0.0660
+Iter 650/678 - LR 0.00312324: Loss: 0.0511
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.43 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 85/200
+Iter 0/678 - LR 0.00312167: Loss: 0.1151
+Iter 50/678 - LR 0.00311887: Loss: 0.0369
+Iter 100/678 - LR 0.00311606: Loss: 0.0471
+Iter 150/678 - LR 0.00311325: Loss: 0.1110
+Iter 200/678 - LR 0.00311045: Loss: 0.1489
+Iter 250/678 - LR 0.00310764: Loss: 0.1030
+Iter 300/678 - LR 0.00310483: Loss: 0.0937
+Iter 350/678 - LR 0.00310202: Loss: 0.0616
+Iter 400/678 - LR 0.00309921: Loss: 0.0478
+Iter 450/678 - LR 0.00309639: Loss: 0.0395
+Iter 500/678 - LR 0.00309358: Loss: 0.0944
+Iter 550/678 - LR 0.00309077: Loss: 0.0468
+Iter 600/678 - LR 0.00308795: Loss: 0.0437
+Iter 650/678 - LR 0.00308514: Loss: 0.0190
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.48 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 86/200
+Iter 0/678 - LR 0.00308356: Loss: 0.0794
+Iter 50/678 - LR 0.00308074: Loss: 0.0407
+Iter 100/678 - LR 0.00307793: Loss: 0.0506
+Iter 150/678 - LR 0.00307511: Loss: 0.0478
+Iter 200/678 - LR 0.00307229: Loss: 0.0505
+Iter 250/678 - LR 0.00306947: Loss: 0.0515
+Iter 300/678 - LR 0.00306665: Loss: 0.0648
+Iter 350/678 - LR 0.00306383: Loss: 0.0646
+Iter 400/678 - LR 0.00306101: Loss: 0.1282
+Iter 450/678 - LR 0.00305819: Loss: 0.0645
+Iter 500/678 - LR 0.00305536: Loss: 0.0345
+Iter 550/678 - LR 0.00305254: Loss: 0.0294
+Iter 600/678 - LR 0.00304971: Loss: 0.0179
+Iter 650/678 - LR 0.00304689: Loss: 0.1341
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.38 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 87/200
+Iter 0/678 - LR 0.00304531: Loss: 0.0393
+Iter 50/678 - LR 0.00304248: Loss: 0.0362
+Iter 100/678 - LR 0.00303965: Loss: 0.0761
+Iter 150/678 - LR 0.00303682: Loss: 0.0553
+Iter 200/678 - LR 0.00303399: Loss: 0.0343
+Iter 250/678 - LR 0.00303117: Loss: 0.0380
+Iter 300/678 - LR 0.00302833: Loss: 0.0132
+Iter 350/678 - LR 0.00302550: Loss: 0.0552
+Iter 400/678 - LR 0.00302267: Loss: 0.0554
+Iter 450/678 - LR 0.00301984: Loss: 0.1086
+Iter 500/678 - LR 0.00301701: Loss: 0.0371
+Iter 550/678 - LR 0.00301417: Loss: 0.0763
+Iter 600/678 - LR 0.00301134: Loss: 0.0245
+Iter 650/678 - LR 0.00300850: Loss: 0.0285
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.51 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 88/200
+Iter 0/678 - LR 0.00300692: Loss: 0.0230
+Iter 50/678 - LR 0.00300408: Loss: 0.0411
+Iter 100/678 - LR 0.00300124: Loss: 0.0154
+Iter 150/678 - LR 0.00299840: Loss: 0.0174
+Iter 200/678 - LR 0.00299557: Loss: 0.0719
+Iter 250/678 - LR 0.00299273: Loss: 0.0237
+Iter 300/678 - LR 0.00298989: Loss: 0.0460
+Iter 350/678 - LR 0.00298705: Loss: 0.0231
+Iter 400/678 - LR 0.00298421: Loss: 0.0250
+Iter 450/678 - LR 0.00298137: Loss: 0.0578
+Iter 500/678 - LR 0.00297852: Loss: 0.0610
+Iter 550/678 - LR 0.00297568: Loss: 0.0694
+Iter 600/678 - LR 0.00297284: Loss: 0.0294
+Iter 650/678 - LR 0.00296999: Loss: 0.0520
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.63 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 89/200
+Iter 0/678 - LR 0.00296840: Loss: 0.0851
+Iter 50/678 - LR 0.00296556: Loss: 0.0801
+Iter 100/678 - LR 0.00296271: Loss: 0.1242
+Iter 150/678 - LR 0.00295986: Loss: 0.0335
+Iter 200/678 - LR 0.00295702: Loss: 0.0163
+Iter 250/678 - LR 0.00295417: Loss: 0.0493
+Iter 300/678 - LR 0.00295132: Loss: 0.0394
+Iter 350/678 - LR 0.00294847: Loss: 0.0245
+Iter 400/678 - LR 0.00294562: Loss: 0.0709
+Iter 450/678 - LR 0.00294277: Loss: 0.0398
+Iter 500/678 - LR 0.00293992: Loss: 0.0234
+Iter 550/678 - LR 0.00293707: Loss: 0.0836
+Iter 600/678 - LR 0.00293422: Loss: 0.0388
+Iter 650/678 - LR 0.00293137: Loss: 0.0626
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.62 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 90/200
+Iter 0/678 - LR 0.00292977: Loss: 0.0107
+Iter 50/678 - LR 0.00292692: Loss: 0.0390
+Iter 100/678 - LR 0.00292406: Loss: 0.0294
+Iter 150/678 - LR 0.00292121: Loss: 0.0210
+Iter 200/678 - LR 0.00291835: Loss: 0.0275
+Iter 250/678 - LR 0.00291550: Loss: 0.0320
+Iter 300/678 - LR 0.00291264: Loss: 0.0106
+Iter 350/678 - LR 0.00290979: Loss: 0.0277
+Iter 400/678 - LR 0.00290693: Loss: 0.0914
+Iter 450/678 - LR 0.00290407: Loss: 0.0652
+Iter 500/678 - LR 0.00290121: Loss: 0.0737
+Iter 550/678 - LR 0.00289835: Loss: 0.0318
+Iter 600/678 - LR 0.00289549: Loss: 0.0249
+Iter 650/678 - LR 0.00289263: Loss: 0.0229
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.51 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 91/200
+Iter 0/678 - LR 0.00289103: Loss: 0.0794
+Iter 50/678 - LR 0.00288817: Loss: 0.0436
+Iter 100/678 - LR 0.00288531: Loss: 0.0561
+Iter 150/678 - LR 0.00288245: Loss: 0.0600
+Iter 200/678 - LR 0.00287959: Loss: 0.0259
+Iter 250/678 - LR 0.00287672: Loss: 0.0403
+Iter 300/678 - LR 0.00287386: Loss: 0.0125
+Iter 350/678 - LR 0.00287100: Loss: 0.0632
+Iter 400/678 - LR 0.00286813: Loss: 0.0226
+Iter 450/678 - LR 0.00286527: Loss: 0.0810
+Iter 500/678 - LR 0.00286240: Loss: 0.0192
+Iter 550/678 - LR 0.00285954: Loss: 0.0681
+Iter 600/678 - LR 0.00285667: Loss: 0.0242
+Iter 650/678 - LR 0.00285381: Loss: 0.0110
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.56 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 92/200
+Iter 0/678 - LR 0.00285220: Loss: 0.0138
+Iter 50/678 - LR 0.00284933: Loss: 0.0393
+Iter 100/678 - LR 0.00284646: Loss: 0.0376
+Iter 150/678 - LR 0.00284360: Loss: 0.0281
+Iter 200/678 - LR 0.00284073: Loss: 0.0193
+Iter 250/678 - LR 0.00283786: Loss: 0.0373
+Iter 300/678 - LR 0.00283499: Loss: 0.0641
+Iter 350/678 - LR 0.00283212: Loss: 0.0783
+Iter 400/678 - LR 0.00282925: Loss: 0.0080
+Iter 450/678 - LR 0.00282638: Loss: 0.0559
+Iter 500/678 - LR 0.00282351: Loss: 0.0883
+Iter 550/678 - LR 0.00282063: Loss: 0.0447
+Iter 600/678 - LR 0.00281776: Loss: 0.0333
+Iter 650/678 - LR 0.00281489: Loss: 0.0520
+Evaluating
+Iter 0/86
+Iter 50/86
+Accuracy: 75.55 %
+No improvement - best accuracy: 77.89 %
+
+Epoch 93/200

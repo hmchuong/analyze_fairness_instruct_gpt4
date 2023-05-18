@@ -1,63 +1,60 @@
-# Fair-Diffusion
+# Analysing the Fairness of Stable Diffusion with instructions from ChatGPT-4
 
-Repository to the [Paper](https://arxiv.org/abs/2302.10893) **Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness**
+Chuong Huynh - Quynh Phung
 
-![Teaser](firefighter_example.png)
+Project of CMSC742 - Spring 2023 - Professor Furong Huang
 
-## Requirements:
-A model editing technique has to be installed first. This repositories builds on Sega, but can be adjusted to other methods, too. Further information about [Sega](https://github.com/ml-research/semantic-image-editing).
-
-It can be installed, e.g., directly via git
+## Requirements
+Create the environment by running thise line:
 ```
-pip install git+https://github.com/ml-research/semantic-image-editing.git
+conda create --name fairness --file requirements.txt
 ```
-## Usage
-It applies semantic guidance to any concept, here e.g. to mitigate gender occupation biases.
+Activate the environment by `conda activate fairness`
+## Preparing dataset
+### FairFace dataset
 
-```python
-from semdiffusers import SemanticEditPipeline
-device='cuda'
+You need to download the FairFace dataset [here](https://drive.google.com/file/d/1Z1RqRo0_JiavaZw2yzZG6WETdZQ8qX86/view) and [train](https://drive.google.com/file/d/1i1L3Yqwaio7YSOCj7ftgk8ZZchPG7dmH/view), [val](https://drive.google.com/file/d/1wOdja-ezstMEp81tX1a-EYkFebev4h7D/view) labels and put to the directory `./data` 
 
-pipe = SemanticEditPipeline.from_pretrained(
-    "runwayml/stable-diffusion-v1-5",
-).to(device)
+### Non-binary gender
+
+Download the images here and save to the folder `./data/nonbin_gender`
+
+## Finetune FaRL on FairFace dataset
+
+Download the [pretrained weights](https://1drv.ms/u/s!AperexS2nqQom0Zu3lsuM28UbEgP) of LAION-Face to `.weights`
+
+Finetune the model with the following command:
 ```
-An exemplary usage of our pipeline could look like this:
-```python
-import torch
-gen = torch.Generator(device=device)
-
-gen.manual_seed(21)
-out = pipe(prompt='a photo of the face of a firefighter', generator=gen, num_images_per_prompt=1, guidance_scale=7,
-           editing_prompt=['male person',       # Concepts to apply 
-                           'female person'],
-           reverse_editing_direction=[True, False], # Direction of guidance i.e. decrease the first and increase the second concept
-           edit_warmup_steps=[10, 10], # Warmup period for each concept
-           edit_guidance_scale=[4, 4], # Guidance scale for each concept
-           edit_threshold=[0.95, 0.95], # Threshold for each concept. Threshold equals the percentile of the latent space that will be discarded. I.e. threshold=0.99 uses 1% of the latent dimensions
-           edit_momentum_scale=0.3, # Momentum scale that will be added to the latent guidance
-           edit_mom_beta=0.6, # Momentum beta
-           edit_weights=[1,1] # Weights of the individual concepts against each other
-          )
-images = out.images
-
-```
-We provide `test_notebook.ipynb` for further experiments on Fair Diffusion. It can be used to gain first insights into changing fair attributes during image generation.
-
-## Reproduction
-Our results can be repoduced with the provided code. `generate_images.py` enables to generate images for occupations from `occupations.txt` and `evaluate_images.ipynb` evaluates them. `CLIP_iEAT.ipynb` computes the iEAT to insight biases in CLIP.
-
-The models stored in `dlib_models/` are taken from FairFace, which is used to classify generated images for gender. To evaluate laion, the laion dataset has to be downloaded, however, we provide the already evaluated statistics in `results_fairface_laion.txt`.
-
-
-## Citation
-If you like or use our work please cite us:
-```bibtex
-@article{friedrich2023FairDiffusion,
-      title={Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness}, 
-      author={Felix Friedrich and Patrick Schramowski and Manuel Brack and Lukas Struppek and Dominik Hintersdorf and Sasha Luccioni and Kristian Kersting},
-      year={2023},
-      journal={arXiv preprint arXiv:2302.10893}
-}
+python train_FaRL.py
 ```
 
+You can check the training log [here](weights/train_farl_fairface.log) and download the trained weights [here]()
+
+## Generate the images
+### Normal images from Stable Diffusion Models:
+```
+python generate_images.py --mode generate --sd-version 1.5 --split 0
+```
+where ` --sd-version` can be 1.1 or 2.1 and `--split` can be 0-7 to run on multiple processes.
+
+### Images with bias-free prompt:
+Plese use the flag `--use-bias-free-prompt`. For example:
+```
+python generate_images.py --mode generate --sd-version 1.5 --split 0 --use-bias-free-prompt
+```
+
+## Evaluate the generated images
+
+### Predict attributes of generated images
+
+We need to predict all attributes of generated images. After finishing the image generation for one model, please run:
+```
+python predict_facial_attr.py --dir generated_images/sd_1-5 --gpu 0
+```
+with `--dir` is the folder containing images generated by a model and we want to run on GPU 0.
+
+You can download all attributes predicted [here](https://drive.google.com/drive/folders/1FErYZs9HZbgnHgjOTn6s8DYt2fIxdGW9?usp=share_link)
+
+### Analyze results
+
+Please refer to [analyze.ipynb](analyze.ipynb)

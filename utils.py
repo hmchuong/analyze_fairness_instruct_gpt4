@@ -1,4 +1,4 @@
-import tensorflow as tf
+# import tensorflow as tf
 import numpy as np
 import random 
 import warnings
@@ -11,9 +11,10 @@ import dlib
 import os
 from tqdm import tqdm
 from PIL import Image
+import cv2
 
 # Hide GPU from visible devices
-tf.config.set_visible_devices([], 'GPU')
+# tf.config.set_visible_devices([], 'GPU')
 
 
 def image_grid(imgs, rows, cols, spacing = 20):
@@ -43,12 +44,40 @@ def face_existing(img, cnn_face_detector, default_max_size=800, size = 300, padd
         new_width, new_height = default_max_size, int(default_max_size * old_height / old_width)
     else:
         new_width, new_height =  int(default_max_size * old_width / old_height), default_max_size
+    
     img = dlib.resize_image(img, rows=new_height, cols=new_width)
-
-    dets = cnn_face_detector(img, 1)
+    dets = cnn_face_detector(img)
+    
+    if dets is None:
+        return 0
     num_faces = len(dets)
     return num_faces
 
+def detect_face_new(image_paths, SAVE_DETECTED_AT, cnn_face_detector, default_max_size=800, size = 300, padding = 0.25):
+    for index, image_path in tqdm(enumerate(image_paths)):
+        if index % 1000 == 0:
+            print('---%d/%d---' %(index, len(image_paths)))
+        image = cv2.imread(image_path)
+        h, w = image.shape[:2]
+        faces = cnn_face_detector.get(image)
+        for idx, face in enumerate(faces):
+            img_name = image_path.split("/")[-1]
+            path_sp = img_name.split(".")
+            bbox = np.round(face['bbox']).astype(int)
+            xmin, ymin, xmax, ymax = bbox
+            xmin = max(0, xmin)
+            ymin = max(0, ymin)
+            xmax = min(w - 1, xmax)
+            ymax = min(h - 1, ymax)
+            padding_h = 0.25 * (ymax - ymin + 1) // 2
+            padding_w = 0.25 * (xmax - xmin + 1) // 2
+            xmin = max(0, xmin - padding_w)
+            xmax = min(w - 1, xmax + padding_w)
+            ymin = max(0, ymin - padding_h)
+            ymax = min(h - 1, xmin + padding_h)
+            face = image[ymin: ymax, xmin: xmax]
+            face_name = os.path.join(SAVE_DETECTED_AT,  path_sp[0] + "_" + "face" + str(idx) + "." + path_sp[-1])
+            cv2.imwrite(face_name, face)
 
 def detect_face(image_paths, SAVE_DETECTED_AT, cnn_face_detector, default_max_size=800, size = 300, padding = 0.25):
     sp = dlib.shape_predictor('dlib_models/shape_predictor_5_face_landmarks.dat')

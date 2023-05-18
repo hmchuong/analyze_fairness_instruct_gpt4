@@ -1,0 +1,5 @@
+data/*
+weights/*.pth
+generated_images/*
+*.pyc
+.ipynb_checkpoints/*
